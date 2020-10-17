@@ -8,4 +8,12 @@ public class GitTest {
         System.out.println(str);
     }
 
+    public void test01() {
+        int i = 10;
+        int j = 20;
+        int count = i + j;
+
+        System.out.println(count);
+    }
+
 }
