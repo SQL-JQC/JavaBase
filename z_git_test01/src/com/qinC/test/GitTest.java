@@ -14,6 +14,7 @@ public class GitTest {
         int count = i + j;
 
         System.out.println(count);
+        System.out.println(count);
     }
 
 }
