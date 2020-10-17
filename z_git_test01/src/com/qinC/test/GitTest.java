@@ -17,4 +17,8 @@ public class GitTest {
         System.out.println(count);
     }
 
+    public void test02() {
+
+    }
+
 }
